@@ -12,7 +12,7 @@ Install necessary packages (iohook and keycode) using npm:
 
 npm install iohook keycode
 
-****Creating a Test File: Create a new file, let's say index.js, where you'll instantiate the Keyboard class and handle its events:
+     Creating a Test File: Create a new file, let's say index.js, where you'll instantiate the Keyboard class and handle its events:
 
 javascript
 
